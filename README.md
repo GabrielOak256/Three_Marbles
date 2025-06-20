@@ -32,17 +32,17 @@ new game engine, finally got to see BOIDs on my own computer, learned a hard les
 
 The flocking marbles wouldn't have been possible without:
 
-Coding Adventure: Boids
-https://www.youtube.com/watch?v=bqtqltqcQhw
-https://github.com/SebLague/Boids/blob/master/Assets/Scripts/Boid.cs
+Coding Adventure: Boids                                                                       
+https://www.youtube.com/watch?v=bqtqltqcQhw                                                   
+https://github.com/SebLague/Boids/blob/master/Assets/Scripts/Boid.cs                          
 
-How to make Boids in Godot 
-https://www.youtube.com/watch?v=oFnIlNW_p10
-https://github.com/aimforbigfoot/NAD-LAB-Godot-Projects/blob/master/boidsArea2D/src/boid.gd
+How to make Boids in Godot                                                                    
+https://www.youtube.com/watch?v=oFnIlNW_p10                                                   
+https://github.com/aimforbigfoot/NAD-LAB-Godot-Projects/blob/master/boidsArea2D/src/boid.gd   
 
-How I Coded Boids Flocking Simulation
-https://www.youtube.com/watch?v=HzR-9tfOJQo
-https://github.com/SuboptimalEng/boids/blob/main/Assets/
+How I Coded Boids Flocking Simulation                                                         
+https://www.youtube.com/watch?v=HzR-9tfOJQo                                                  
+https://github.com/SuboptimalEng/boids/blob/main/Assets/                                      
 
 
 Experience by Ludovico Einaudi has become a very popular song on the internet. I found some 
