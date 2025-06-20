@@ -62,3 +62,6 @@ Fly:             https://www.youtube.com/watch?v=gRqiU9QWGO8
 Run:             https://www.youtube.com/watch?v=LFva21HWk8g                                  
 Walk:            https://www.youtube.com/watch?v=FE4xvtclJ7Y                                  
 Waterways:       https://www.youtube.com/watch?v=naAC2_CMOzQ (whirlpool)                      
+
+
+By the way, you may need to give the binaries permission to execute. 
