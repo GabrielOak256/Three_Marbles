@@ -1,1 +1,20 @@
-C++
+First off, let me thank the people who, voluntarily and without guarantee of compensation, 
+developed and implemented such a user-friendly language as GDScript. I think it's an ideal 
+way to gently introduce programming to those totally unfamiliar, rather than dropping them
+head-first in a C++ manual. (I recommend The C++ Programming Language by Bjarne Stroustrup.)
+
+However, I personally taught myself C++ specifically because game development uses it. The 
+script handling things for you is nice... until you get to the point of specifying individual 
+strongly-typed operations, and it running just as slowly as if it had to do so much work for 
+you. This code contains a lot of algorithms with multiple steps. In direct C++, those steps 
+would compile down to whatever assembly instructions. But GDScript has to interpret what I 
+wrote step by step, and do so with the care that would be appropriate for a novice programmer 
+taking full advantage of GDScript's helpful features. 
+
+I get that it isn't trivial to add language support, but I was under the impression that 
+GDScript compiles down to C++ (which then compiles down to assembly). Am I missing something, 
+or shouldn't we just be able to provide the C++ itself? 
+
+If the difference is of compiled vs interpreted, how bad would it be to make pre-compiled
+object behaviors? Is it to save the headache of managing header files to optimize compilation 
+time? 
