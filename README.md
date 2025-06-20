@@ -65,3 +65,13 @@ Waterways:       https://www.youtube.com/watch?v=naAC2_CMOzQ (whirlpool)
 
 
 By the way, you may need to give the binaries permission to execute. 
+
+The game will save data (high scores, language, custom level configuration) 
+to storage, so it remains when you close and re-open the application. 
+If you want to purge all data, then it's:
+Windows: %APPDATA%\Godot\app_userdata\[project_name]
+macOS: ~/Library/Application Support/Godot/app_userdata/[project_name]
+Linux: ~/.local/share/godot/app_userdata/[project_name]
+As you can see from the source code, the default filepath is used. So, for 
+further reference: 
+https://docs.godotengine.org/en/stable/tutorials/io/data_paths.html#doc-data-paths
